@@ -1,0 +1,6 @@
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
