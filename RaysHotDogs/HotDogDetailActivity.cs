@@ -85,7 +85,7 @@ namespace RaysHotDogs
 
             var dialog = new AlertDialog.Builder(this);
             dialog.SetTitle("Confirmation");
-            dialog.SetMessage("Your hot dog has been added to your cart!");
+            dialog.SetMessage("Your hot doggie(s) has been added to your cart!");
             dialog.Show();
         }
     }
