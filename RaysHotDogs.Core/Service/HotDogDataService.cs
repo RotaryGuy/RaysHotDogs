@@ -17,6 +17,11 @@ namespace RaysHotDogs.Core.Service
             return hotDogRepository.GetGroupedHotDogs();
         }
 
+        public List<HotDog> GetAllHotDogs()
+        {
+            return hotDogRepository.GetAllHotDogs();
+        }
+
         public List<HotDog> GetHotDogsForGroup(int hotDogGroupId)
         {
             return hotDogRepository.GetHotDogsForGroup(hotDogGroupId);
