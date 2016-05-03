@@ -6,13 +6,14 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="RaysHotDogs" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="Hot Dog Detail" android:name="md569b3812a35e0a5e98137aae69d6c065a.HotDogDetailActivity" />
-    <activity android:label="HotDogMenuActivity" android:name="md569b3812a35e0a5e98137aae69d6c065a.HotDogMenuActivity">
+    <activity android:label="HotDogMenuActivity" android:name="md569b3812a35e0a5e98137aae69d6c065a.HotDogMenuActivity" />
+    <activity android:label="RaysHotDogs" android:name="md569b3812a35e0a5e98137aae69d6c065a.MainActivity" />
+    <activity android:label="MenuActivity" android:name="md569b3812a35e0a5e98137aae69d6c065a.MenuActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="RaysHotDogs" android:name="md569b3812a35e0a5e98137aae69d6c065a.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="RaysHotDogs.RaysHotDogs.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
