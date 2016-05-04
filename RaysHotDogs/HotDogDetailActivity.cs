@@ -37,7 +37,9 @@ namespace RaysHotDogs
             SetContentView(Resource.Layout.HotDogDetailView);
 
             dataService = new HotDogDataService();
-            selectedHotDog = dataService.GetHotDogById(1);
+           
+            var selectedHotDogId = Intent.Extras.GetInt("selectedHotDogId");
+            selectedHotDog = dataService.GetHotDogById(selectedHotDogId);
 
             // Create your application here
             FindViews();
@@ -64,8 +66,8 @@ namespace RaysHotDogs
             descriptionTextView.Text = selectedHotDog.Description;
             priceTextView.Text = "Price: " + selectedHotDog.Price;
 
-            var imageBitmap = ImageHelper.GetImageBitMapFromUrl("http://gillcleerenpluralsight.blob.core.windows.net/files/" + selectedHotDog.ImagePath + ".jpg");
-            hotDogImageView.SetImageBitmap(imageBitmap);
+            //var imageBitmap = ImageHelper.GetImageBitMapFromUrl("http://gillcleerenpluralsight.blob.core.windows.net/files/" + selectedHotDog.ImagePath + ".jpg");
+            //hotDogImageView.SetImageBitmap(imageBitmap);
         }
 
         private void HandleEvents()
@@ -83,10 +85,14 @@ namespace RaysHotDogs
         {
             var amount = Int32.Parse(amountEditText.Text);
 
-            var dialog = new AlertDialog.Builder(this);
-            dialog.SetTitle("Confirmation");
-            dialog.SetMessage("Your hot doggie(s) has been added to your cart!");
-            dialog.Show();
+            var intent = new Intent();
+            intent.PutExtra("selectedHotDogId", selectedHotDog.HotDogId);
+            intent.PutExtra("amount", amount);
+
+            SetResult(Result.Ok, intent);
+
+            this.Finish();
+                
         }
     }
 }

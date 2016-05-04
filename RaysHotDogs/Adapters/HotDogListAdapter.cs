@@ -48,7 +48,7 @@ namespace RaysHotDogs.Adapters
         {
             var item = items[position];
 
-            var imageBitmap = ImageHelper.GetImageBitMapFromUrl("http://gillcleerenpluralsight.blob.core.windows.net/files/" + item.ImagePath + ".jpg");
+            //var imageBitmap = ImageHelper.GetImageBitMapFromUrl("http://gillcleerenpluralsight.blob.core.windows.net/files/" + item.ImagePath + ".jpg");
 
             if (convertView == null)
             {
@@ -58,7 +58,7 @@ namespace RaysHotDogs.Adapters
             convertView.FindViewById<TextView>(Resource.Id.hotDogNameTextView).Text = item.Name;
             convertView.FindViewById<TextView>(Resource.Id.shortDescriptionTextView).Text = item.ShortDescription;
             convertView.FindViewById<TextView>(Resource.Id.priceTextView).Text = "$ " + item.Price;
-            convertView.FindViewById<ImageView>(Resource.Id.hotDogImageView).SetImageBitmap(imageBitmap);
+            //convertView.FindViewById<ImageView>(Resource.Id.hotDogImageView).SetImageBitmap(imageBitmap);
 
             return convertView;
         }

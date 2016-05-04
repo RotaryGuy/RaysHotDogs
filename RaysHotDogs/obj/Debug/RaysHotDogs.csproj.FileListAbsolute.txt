@@ -36,9 +36,6 @@ C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\res\values\st
 C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\res\drawable\icon.png
 C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\R.cs.flag
 C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.txt
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.pdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs.apk
@@ -61,3 +58,7 @@ C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.tx
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\res\layout\aboutview.xml
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb

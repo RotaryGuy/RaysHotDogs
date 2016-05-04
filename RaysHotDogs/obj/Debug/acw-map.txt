@@ -1,3 +1,7 @@
+RaysHotDogs.AboutActivity, RaysHotDogs;md569b3812a35e0a5e98137aae69d6c065a.AboutActivity
+RaysHotDogs.AboutActivity, RaysHotDogs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b3812a35e0a5e98137aae69d6c065a.AboutActivity
+RaysHotDogs.AboutActivity;md569b3812a35e0a5e98137aae69d6c065a.AboutActivity
+rayshotdogs.AboutActivity;md569b3812a35e0a5e98137aae69d6c065a.AboutActivity
 RaysHotDogs.HotDogDetailActivity, RaysHotDogs;md569b3812a35e0a5e98137aae69d6c065a.HotDogDetailActivity
 RaysHotDogs.HotDogDetailActivity, RaysHotDogs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b3812a35e0a5e98137aae69d6c065a.HotDogDetailActivity
 RaysHotDogs.HotDogDetailActivity;md569b3812a35e0a5e98137aae69d6c065a.HotDogDetailActivity
