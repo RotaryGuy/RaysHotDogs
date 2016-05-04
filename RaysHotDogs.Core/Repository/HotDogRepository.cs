@@ -58,7 +58,7 @@ namespace RaysHotDogs.Core.Repository
             },
             new HotDogGroup()
             {
-                HotDogGroupId = 1, Title = "Veggie Lovers", ImagePath = "", HotDogs = new List<HotDog>()
+                HotDogGroupId = 2, Title = "Veggie Lovers", ImagePath = "", HotDogs = new List<HotDog>()
                 {
                     new HotDog()
                     {

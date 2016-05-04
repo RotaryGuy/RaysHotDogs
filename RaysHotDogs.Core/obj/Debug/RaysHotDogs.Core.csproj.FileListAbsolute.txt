@@ -5,24 +5,15 @@ C:\Development\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
 C:\Development\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
 C:\Development\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csprojResolveAssemblyReference.cache
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
-C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
 C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll.mdb
