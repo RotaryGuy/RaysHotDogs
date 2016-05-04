@@ -45,7 +45,6 @@ C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Ra
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs-Signed.apk
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.pdb
-C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.csprojResolveAssemblyReference.cache
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.pdb
@@ -59,5 +58,6 @@ C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\values\str
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\res\drawable\icon.png
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\R.cs.flag
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.txt
+C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll.mdb
 C:\Development\Android Projects\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
