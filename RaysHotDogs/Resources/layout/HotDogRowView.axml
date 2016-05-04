@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:textColor="@android:color/black"
             android:layout_alignParentLeft="true"
-            android:layout_below="@android:color/black"
+            android:layout_below="@+id/hotDogNameTextView"
             android:gravity="left" />
         <TextView
             android:id="@+id/priceTextView"
@@ -38,7 +38,7 @@
             android:textSize="16dp"
             android:layout_height="wrap_content"
             android:textColor="@android:color/black"
-            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
             android:textStyle="bold"
             android:gravity="right" />
     </RelativeLayout>
