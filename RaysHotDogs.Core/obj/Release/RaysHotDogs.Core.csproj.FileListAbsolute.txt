@@ -1,0 +1,12 @@
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\RaysHotDogs.Core.dll.config
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\RaysHotDogs.Core.pdb
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\Newtonsoft.Json.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\System.Net.Http.Extensions.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\System.Net.Http.Primitives.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\Newtonsoft.Json.xml
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\System.Net.Http.Extensions.xml
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\bin\Release\System.Net.Http.Primitives.xml
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Release\RaysHotDogs.Core.csproj.App.config
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Release\RaysHotDogs.Core.dll
+C:\Development\Learnings\Android\RaysHotDogs\RaysHotDogs.Core\obj\Release\RaysHotDogs.Core.pdb

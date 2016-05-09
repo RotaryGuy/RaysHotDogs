@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace RaysHotDogs
 {
-    [Activity(Label = "Ray's Hot Dogs", MainLauncher = true)]
+    [Activity(Label = "Ray's Hot Dogs", MainLauncher = true, Icon = "@drawable/Icon")]
     public class MenuActivity : Activity
     {
         private Button orderButton;
