@@ -1,16 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 using RaysHotDogs.Core.Model;
 
 namespace RaysHotDogs.Core.Repository
 {
     public class HotDogRepository
     {
-        private static List<HotDogGroup> hotDogGroups = new List<HotDogGroup>()
+        private static List<HotDogGroup> hotDogGroups = new List<HotDogGroup>();
+
+        string url = "http://gillcleerenpluralsight.blob.core.windows.net/files/hotdogs.json";
+
+        public HotDogRepository()
         {
+            Task.Run(() => this.LoadDataAsync(url)).Wait();
+        }
+
+        private async Task LoadDataAsync(string uri)
+        {
+            if (hotDogGroups != null)
+            {
+                string responseJsonString = null;
+                using (var httpClient = new HttpClient())
+                {
+                    try
+                    {
+                        Task<HttpResponseMessage> getResposne = httpClient.GetAsync(uri);
+                        HttpResponseMessage response = await getResposne;
+                        responseJsonString = await response.Content.ReadAsStringAsync();
+
+                        hotDogGroups = JsonConvert.DeserializeObject<List<HotDogGroup>>(responseJsonString);
+                    }
+                    catch (Exception ex)
+                    {
+                        
+                        throw;
+                    }    
+                }
+            }
+        }
+
+        /*
             new HotDogGroup()
             {
                 HotDogGroupId = 1, Title = "Meat Lovers", ImagePath = "", HotDogs = new List<HotDog>()
@@ -102,6 +136,7 @@ namespace RaysHotDogs.Core.Repository
                 }
             }
         };
+        */
 
         public List<HotDog> GetAllHotDogs()
         {
